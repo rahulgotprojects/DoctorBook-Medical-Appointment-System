@@ -1,4 +1,9 @@
 # DoctorBook — PHP Appointment System
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa360145-0a7c-4125-9b1c-d9760e893e8b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7b95ac5b-736a-4143-95a6-09306e0c5618" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c4c762d-a8b7-4a61-833c-898f957ac4b9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/66fc42e8-e3be-435e-a5ea-1826658ce9d4" />
+
 ## Setup Instructions
 
 ### Requirements
@@ -88,3 +93,6 @@ For testing OTP locally without email, you can **temporarily** add this line in 
 echo "<div style='background:yellow;padding:10px'>DEV OTP: $otp</div>";
 ```
 Remove this before submitting!
+
+
+
